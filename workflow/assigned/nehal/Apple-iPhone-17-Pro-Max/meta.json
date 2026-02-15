@@ -1,6 +1,6 @@
 {
   "phoneName": "Apple iPhone 17 Pro Max",
-  "status": "sent",
+  "status": "submitted",
   "user": "nehal",
   "images": {
     "front": {
@@ -29,5 +29,6 @@
     "bangla": "https://www.youtube.com/watch?v=LqAQkOQ2p0k",
     "hindi": "https://www.youtube.com/watch?v=X763A7yGh5E",
     "english": "https://www.youtube.com/watch?v=pOD5nHk909A"
-  }
+  },
+  "submittedAt": "2026-02-15T13:14:36.391Z"
 }
