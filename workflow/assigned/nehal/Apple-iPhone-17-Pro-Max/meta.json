@@ -17,7 +17,13 @@
       "hash": "2c7fecc7cc8daa76a0029161bbb07c419e30ba00263fe2e28d12619aa7cf4a9b",
       "repo": "specimage2"
     },
-    "angle": null
+    "angle": {
+      "width": 558,
+      "height": 714,
+      "sizeKB": 22,
+      "hash": "b909e2bc4af3e2ed3d6a928798934e933607e0341b8250f4143d1da950e10a0c",
+      "repo": "specimage2"
+    }
   },
   "youtube": {
     "bangla": null,
