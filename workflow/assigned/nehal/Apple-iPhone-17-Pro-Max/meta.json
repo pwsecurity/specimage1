@@ -11,14 +11,6 @@
       "sizeKB": 18,
       "uploadedAt": "2026-02-15T16:47:39.862Z"
     },
-    "angle": {
-      "path": "/Apple-iPhone-17-Pro-Max/angle.webp",
-      "repo": "specimage2",
-      "width": 558,
-      "height": 714,
-      "sizeKB": 30,
-      "uploadedAt": "2026-02-15T16:47:44.778Z"
-    },
     "front": {
       "path": "/Apple-iPhone-17-Pro-Max/front.webp",
       "repo": "specimage2",
@@ -33,5 +25,5 @@
     "hindi": "https://www.youtube.com/watch?v=kBDCkoCxkrg",
     "english": "https://www.youtube.com/watch?v=X763A7yGh5E"
   },
-  "updatedAt": "2026-02-15T16:47:45.526Z"
+  "updatedAt": "2026-02-15T16:48:39.079Z"
 }
