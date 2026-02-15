@@ -3,7 +3,13 @@
   "status": "sent",
   "user": "nehal",
   "images": {
-    "front": null,
+    "front": {
+      "width": 800,
+      "height": 800,
+      "sizeKB": 19,
+      "hash": "6ade8c6bc728d2e513f2a202f282d6ca78184db63119c242e96684c7207d1df1",
+      "repo": "specimage2"
+    },
     "back": null,
     "angle": null
   },
