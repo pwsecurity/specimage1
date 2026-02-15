@@ -4,12 +4,20 @@
   "user": "nehal",
   "images": {
     "back": null,
-    "angle": null
+    "angle": null,
+    "front": {
+      "path": "/Apple-iPhone-17-Pro-Max/front.webp",
+      "repo": "specimage2",
+      "width": 800,
+      "height": 800,
+      "sizeKB": 19,
+      "uploadedAt": "2026-02-15T16:47:35.056Z"
+    }
   },
   "youtube": {
     "bangla": "https://www.youtube.com/watch?v=Hjj5i_w6Iog",
     "hindi": "https://www.youtube.com/watch?v=kBDCkoCxkrg",
     "english": "https://www.youtube.com/watch?v=X763A7yGh5E"
   },
-  "updatedAt": "2026-02-15T16:47:23.088Z"
+  "updatedAt": "2026-02-15T16:47:35.677Z"
 }
