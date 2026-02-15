@@ -10,6 +10,14 @@
       "height": 714,
       "sizeKB": 30,
       "uploadedAt": "2026-02-15T16:52:19.661Z"
+    },
+    "back": {
+      "path": "/Apple-iPhone-17-Pro-Max/back.webp",
+      "repo": "specimage2",
+      "width": 774,
+      "height": 888,
+      "sizeKB": 61,
+      "uploadedAt": "2026-02-15T16:52:28.580Z"
     }
   },
   "youtube": {
@@ -17,5 +25,5 @@
     "hindi": "https://www.youtube.com/watch?v=kBDCkoCxkrg",
     "english": "https://www.youtube.com/watch?v=X763A7yGh5E"
   },
-  "updatedAt": "2026-02-15T16:52:20.396Z"
+  "updatedAt": "2026-02-15T16:52:30.393Z"
 }
