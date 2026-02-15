@@ -10,7 +10,13 @@
       "hash": "ecd90de53c0a9d58c201569f72759ef64f92bb932ff14600489764ac218c0560",
       "repo": "specimage2"
     },
-    "back": null,
+    "back": {
+      "width": 800,
+      "height": 800,
+      "sizeKB": 14,
+      "hash": "2c7fecc7cc8daa76a0029161bbb07c419e30ba00263fe2e28d12619aa7cf4a9b",
+      "repo": "specimage2"
+    },
     "angle": null
   },
   "youtube": {
