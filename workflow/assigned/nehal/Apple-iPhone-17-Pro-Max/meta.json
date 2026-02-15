@@ -2,11 +2,20 @@
   "phoneName": "Apple iPhone 17 Pro Max",
   "status": "sent",
   "user": "nehal",
-  "images": {},
+  "images": {
+    "front": {
+      "path": "/Apple-iPhone-17-Pro-Max/front.webp",
+      "repo": "specimage2",
+      "width": 558,
+      "height": 714,
+      "sizeKB": 30,
+      "uploadedAt": "2026-02-15T16:52:19.661Z"
+    }
+  },
   "youtube": {
     "bangla": "https://www.youtube.com/watch?v=Hjj5i_w6Iog",
     "hindi": "https://www.youtube.com/watch?v=kBDCkoCxkrg",
     "english": "https://www.youtube.com/watch?v=X763A7yGh5E"
   },
-  "updatedAt": "2026-02-15T16:51:48.292Z"
+  "updatedAt": "2026-02-15T16:52:20.396Z"
 }
