@@ -3,13 +3,6 @@
   "status": "sent",
   "user": "nehal",
   "images": {
-    "front": {
-      "width": 800,
-      "height": 800,
-      "sizeKB": 19,
-      "hash": "6ade8c6bc728d2e513f2a202f282d6ca78184db63119c242e96684c7207d1df1",
-      "repo": "specimage2"
-    },
     "back": null,
     "angle": null
   },
@@ -17,5 +10,6 @@
     "bangla": "https://www.youtube.com/watch?v=Hjj5i_w6Iog",
     "hindi": "https://www.youtube.com/watch?v=kBDCkoCxkrg",
     "english": "https://www.youtube.com/watch?v=X763A7yGh5E"
-  }
+  },
+  "updatedAt": "2026-02-15T16:07:22.156Z"
 }
