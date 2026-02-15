@@ -1,0 +1,15 @@
+{
+  "phoneName": "Test Parallel Phone",
+  "status": "sent",
+  "user": "rids3d",
+  "images": {
+    "front": null,
+    "back": null,
+    "angle": null
+  },
+  "youtube": {
+    "bangla": null,
+    "hindi": null,
+    "english": null
+  }
+}
