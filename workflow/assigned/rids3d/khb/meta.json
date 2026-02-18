@@ -3,7 +3,14 @@
   "status": "sent",
   "user": "rids3d",
   "images": {
-    "front": null,
+    "front": {
+      "path": "/khb/front.webp",
+      "repo": "specimage2",
+      "width": 1200,
+      "height": 1454,
+      "sizeKB": 113,
+      "uploadedAt": "2026-02-18T05:36:56.764Z"
+    },
     "back": null,
     "angle": null
   },
@@ -11,5 +18,6 @@
     "bangla": null,
     "hindi": null,
     "english": null
-  }
+  },
+  "updatedAt": "2026-02-18T05:36:57.344Z"
 }
