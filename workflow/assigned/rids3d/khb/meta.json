@@ -3,7 +3,14 @@
   "status": "sent",
   "user": "rids3d",
   "images": {
-    "back": null,
+    "back": {
+      "path": "/khb/back.webp",
+      "repo": "specimage2",
+      "width": 665,
+      "height": 810,
+      "sizeKB": 78,
+      "uploadedAt": "2026-02-18T07:28:33.931Z"
+    },
     "angle": null
   },
   "youtube": {
@@ -11,5 +18,5 @@
     "hindi": null,
     "english": null
   },
-  "updatedAt": "2026-02-18T07:28:30.552Z"
+  "updatedAt": "2026-02-18T07:28:34.647Z"
 }
