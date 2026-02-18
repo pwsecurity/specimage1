@@ -6,10 +6,10 @@
     "front": {
       "path": "/khb/front.webp",
       "repo": "specimage2",
-      "width": 1200,
-      "height": 1454,
-      "sizeKB": 113,
-      "uploadedAt": "2026-02-18T05:36:56.764Z"
+      "width": 665,
+      "height": 810,
+      "sizeKB": 78,
+      "uploadedAt": "2026-02-18T07:28:10.230Z"
     },
     "back": null,
     "angle": null
@@ -19,5 +19,5 @@
     "hindi": null,
     "english": null
   },
-  "updatedAt": "2026-02-18T05:36:57.344Z"
+  "updatedAt": "2026-02-18T07:28:10.992Z"
 }
